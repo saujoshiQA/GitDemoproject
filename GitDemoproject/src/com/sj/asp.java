@@ -11,4 +11,10 @@ public class asp {
 	 System.out.println("Heloo pune");
 	}
 	
+	@Test
+	public void m2()
+	{
+		System.out.println("heeelo mumba");
+	}
+	
 }
